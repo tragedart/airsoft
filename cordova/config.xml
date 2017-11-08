@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="tragedart.airsoft" version="0.1.0">
+  <name>Airsoft</name>
+  <description>
+    Airsoft Precision Target
+  </description>
+  <author email="tragedart@gmail.com">
+    Serkan Urkmez
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
